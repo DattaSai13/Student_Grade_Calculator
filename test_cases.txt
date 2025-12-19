@@ -1,0 +1,23 @@
+Test Case 1:
+Input: 95
+Expected Grade: A
+
+Test Case 2:
+Input: 85
+Expected Grade: B
+
+Test Case 3:
+Input: 72
+Expected Grade: C
+
+Test Case 4:
+Input: 65
+Expected Grade: D
+
+Test Case 5:
+Input: 40
+Expected Grade: F
+
+Validation Test:
+Input: 120
+Expected Result: Error message
